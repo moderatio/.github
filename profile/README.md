@@ -6,17 +6,17 @@
 
 <div align="center">
 
-[![Hackathon](https://img.shields.io/badge/hackathon-name-orange.svg)](https://chainlinkspring2023.devpost.com/)
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
+[![Hackathon](https://img.shields.io/badge/hackathon-chainlink_spring_2023-orange.svg)](https://chainlinkspring2023.devpost.com/)
+[![Status](https://img.shields.io/badge/status-work_in_progress-success.svg)]()
+<!-- [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues) -->
+<!-- [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls) -->
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
 </div>
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> Reaching conclusions 
     <br> 
 </p>
 
@@ -35,9 +35,16 @@
 
 ## 🧐 Problem Statement <a name = "problem_statement"></a>
 
-It is useful to design and follow a specific format when writing a problem statement. While there are several options
-for doing this, the following is a simple and straightforward template often used in Business Analysis to maintain
-focus on defining the problem.
+It's hard to moderate. In moderating human issues in order to reach a fair conclusion, all the parts should be impartial. But having impartial humans that are capable of reaching fair conclusions is quite difficult. All the participants have to provide the context, the laws available, and deliberate on it to reach a conclusion. Then, we reached the conclusion that if we can provide the laws (or rules) and the context to an AI, it might be able to reach similar conclusions as humans, but faster ar arguably more impartial. 
+
+Ideally, all the context and rules necessary will be provided by the the parties interested in the decision. Also ideally, the decision by the AI will always end in one of the multiple ends and in the most fair.
+
+In reality, since AI's are non-deterministic we already know they will fail in some cases to provide a fair decision. Or even provide a decision, but not the most fair. What we expect with our solution is some decision to be made in most cases, the closest possible to the most fair for all participants affected by the decision. 
+
+(((write about realiity once we have implemented the solution. One thing that we will face for sure, is the fact that participants will attempt to provide false context or remove context from past participants.)))
+
+Our implementation has the potential to reduce costs in making decisions of moderation, by needing less human parts and time to reach a conclusion.
+
 
 - IDEAL: This section is used to describe the desired or “to be” state of the process or product. At large, this section
   should illustrate what the expected environment would look like once the solution is implemented.
