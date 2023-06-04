@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="../court.png" alt="Project logo"></a>
+ <img src="court.png" alt="Project logo"></a>
 </p>
 <h3 align="center">moderatio</h3>
 
