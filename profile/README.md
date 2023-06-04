@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://i.imgur.com/AZ2iWek.png" alt="Project logo"></a>
+ <img src="../court.png" alt="Project logo"></a>
 </p>
 <h3 align="center">moderatio</h3>
 
@@ -11,7 +11,6 @@
 <!-- [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues) -->
 <!-- [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls) -->
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
-to a
 </div>
 
 ---
@@ -39,21 +38,10 @@ It's hard to moderate. In moderating human issues in order to reach a fair concl
 
 Ideally, all the context and rules necessary will be provided by the the parties interested in the decision. Also ideally, the decision by the AI will always end in one of the multiple ends and in the most fair.
 
-In reality, since AI's are non-deterministic we already know they will fail in some cases to provide a fair decision. Or even provide a decision, but not the most fair. What we expect with our solution is some decision to be made in most cases, the closest possible to the most fair for all participants affected by the decision. 
+In reality, since AI's are non-deterministic we already know they will fail in some cases to provide a fair decision. Or even provide a decision, but not the most fair. What we expect with our solution is some decision to be made in most cases, the closest possible to the most fair for all participants affected by the decision. Also, choosing on who provides the context to the AI to make a decision is another very complex problem which we will not attempt to solve. For now, the providers of context can be a few of the selected addresses.
 
-(((write about realiity once we have implemented the solution. One thing that we will face for sure, is the fact that participants will attempt to provide false context or remove context from past participants.)))
+Our implementation can reduce costs in making decisions of moderation, by needing less human intervention, it can reach a conclusion faster reasonably less partial.
 
-Our implementation has the potential to reduce costs in making decisions of moderation, by needing less human parts and time to reach a conclusion.
-
-
-- IDEAL: This section is used to describe the desired or “to be” state of the process or product. At large, this section
-  should illustrate what the expected environment would look like once the solution is implemented.
-- REALITY: This section is used to describe the current or “as is” state of the process or product.
-- CONSEQUENCES: This section is used to describe the impacts on the business if the problem is not fixed or improved upon.
-  This includes costs associated with loss of money, time, productivity, competitive advantage, and so forth.
-
-Following this format will result in a workable document that can be used to understand the problem and elicit
-requirements that will lead to a winning solution.
 
 ## 💡 Idea / Solution <a name = "idea"></a>
 
